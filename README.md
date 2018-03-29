@@ -1,5 +1,5 @@
 # WebDev Midterm
-link to the site: https://github.com/alanabeyer/alanabeyer.github.io
+link to the site: https://alanabeyer.github.io/
 
 Also, I had issues displaying pictures in the ReadMe, so I threw my documentation in a doc. 
 
